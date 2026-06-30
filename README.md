@@ -24,7 +24,8 @@ Basic Data Visualization
 🔹 Outcome:
 This project enhanced my analytical thinking, Excel dashboard skills, and ability to convert raw data into meaningful business insights.
 
-<img width="1179" height="656" alt="Sales Dashboard Screenshot" src="https://github.com/user-attachments/assets/188454b5-7679-4ef2-9411-7e5467f4163c" />
+<img width="1127" height="615" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/777933fc-8e6d-41b7-80cc-3efc9730d680" />
+
 
 
 
